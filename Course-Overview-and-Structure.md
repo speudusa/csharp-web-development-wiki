@@ -12,14 +12,19 @@ Most of the traditional instruction will be done at home via online reading and 
 
 Teach students, from wide ranging backgrounds, these topics:
 
-* Basic functional csharp
+* Basic functional C#
 * Programming in an IDE
-* Introduction to Spring Boot framework
+* Introduction to .NET Core
 * Object oriented concepts and MVC architecture
 
-This content is meant to be a start to these topics and not the finish. With these skills students can proceed into more complex areas.
+This content is meant to be a start to these topics and not the finish. With these skills, students can proceed into more complex areas.
 
-The course is designed for learners who are already familiar with at least one programming language.
+The course is designed for learners who are already familiar with: 
+
+* at least one programming language,
+* version control in Git and Github,
+* foundational HTML and CSS,
+* and a basic understanding of HTTPS/modern web protocols.
 
 # Class Structure
 
@@ -30,35 +35,35 @@ The course is designed for learners who are already familiar with at least one p
   * Led by the instructor
   * Lasts 45 minutes to 1 hour
 * Studio
-  * Students separate into assigned groups, that are led by a TF
+  * Students separate into assigned groups, that are led by a TA
   * Lasts 1 to 1.5 hours
-  * Designed to be **safe practice time** for students with TF support
+  * Designed to be **safe practice time** for students with TA support
 * Programming Assignments
   * Graded assignments for which students are given multiple weeks to complete
 
 # Tasks and Responsibilities
-Instructors and TFs are crucial to the success of the students. These tasks help ensure that everyone knows their role in the process.
+Instructors and TAs are crucial to the success of the students. These tasks help ensure that everyone knows their role in the process.
 
 ## Instructors
 
 * Report Issues to LaunchCode (LC) staff
   * Contact LC staff by Slack, email, or in person.
-  * LC staff needs to know about issues with: students, TFs, facilities, curriculum, course tools
+  * LC staff needs to know about issues with: students, TAs, facilities, curriculum, course tools
     * [For issues requiring changes to the curriculum material, including bugs](https://github.com/LaunchCodeEducation/csharp-web-development/wiki/Course-Overview-and-Structure#Bug-and-Issue-Reporting)
 * Facilitate large group (full class) activities
   * Examples
     * What to review/demo in primary instruction
     * Decide whether to bring the class back together after studio time
-    * Decide whether to hold a TF standup after class
+    * Decide whether to hold a TA standup after class
 * Monitor and respond to student struggles
   * Look for signs of students struggling and falling behind
-  * Use feedback from students and TFs to determine how to cover the topic more effectively.
-  * Adjust examples and descriptions of topics as needed.
-* Manage and coach TFs
+  * Use feedback from students and TAs to determine how to cover the topic more effectively
+  * Adjust examples and descriptions of topics as needed
+* Manage and coach TAs
 
-## Teaching Fellows (TFs)
+## Teaching Assistants (TAs)
 
-TFs will be assigned a group of students to guide.
+TAs will be assigned a group of students to guide.
 
 * Assist individual students
   * Check on each student in your group at least once every class
@@ -70,7 +75,7 @@ TFs will be assigned a group of students to guide.
 * Facilitate studios and other small-group activities
   * Deliver the activities listed in Canvas
 * Grading
-  * TFs are responsible for verifying student work and entering a grade into Canvas
+  * TAs are responsible for verifying student work and entering a grade into Canvas
 * Feedback
   * Provide the students specific and timely feedback on assignments, studios, and tasks
   * Provide ideas to the LaunchCode staff on how to make the course better
@@ -85,8 +90,8 @@ TFs will be assigned a group of students to guide.
 
 ## Bug and Issue Reporting
 
-Students should notify their TA or instructor of any issues they find in course materials (typos, bugs, etc). Course staff should assess the issue and gather as much info as possible. If the issue is indeed with course materials (some student concerns are the result of misreadings, bad student code, etc) then then they should raise the issue with the Education Team. To submit an issue, do one of the following:
+Students should notify their TA or instructor of any issues they find in course materials (typos, bugs, etc). Course staff should assess the issue and gather as much info as possible. If the issue is indeed with course materials (some student concerns are the result of misreadings or mistakes made while learning, etc) then then they should raise the issue with the Education Team. To submit an issue, do one of the following:
 
-- Message the Ed Team in the course Slack (@EducationTeam)
+- Message the Ed Team in the course Slack (@StaffSupport)
 - Email the Ed Team at education@launchcode.org
 - Create a [new issue on GitHub](https://github.com/LaunchCodeEducation/csharp-web-development/issues) (only for non-urgent issues)
