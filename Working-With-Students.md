@@ -1,10 +1,10 @@
 # Communication
 
-Positive and productive communication between instructors, TFs, and students is vital to a successful class.
+Positive and productive communication between instructors, TAs, and students is vital to a successful class.
 
 ## Be Empathetic and Positive
 
-Students will be looking to instructors, TFs, and the curriculum for knowledge and guidance. Have empathy when speaking to students, and remember that learning to code is not an easy task. Keep in mind that we all learn at different speeds and in different ways. Be supportive and patient as the students demonstrate and describe their issues. Acknowledge their success, listen to their worries, and answer their questions in a clear, attentive, and polite manner.
+Students will be looking to instructors, TAs, and the curriculum for knowledge and guidance. Have empathy when speaking to students, and remember that learning to code is not an easy task. Keep in mind that we all learn at different speeds and in different ways. Be supportive and patient as the students demonstrate and describe their issues. Acknowledge their success, listen to their worries, and answer their questions in a clear, attentive, and polite manner.
 
 ## Stand By the Curriculum
 
@@ -37,7 +37,7 @@ Another reason students skip the studio is to work on the graded programming ass
 
 ### Poor Attendance
 
-Students are *required* to attend class. Attendance is the clearest factor for success. Attendance is taken by TFs and reported to LaunchCode. LaunchCode reserves the right to withdraw students due to excessive absences.
+Students are *required* to attend class. Attendance is the clearest factor for success. Attendance is taken by TAs and reported to LaunchCode. LaunchCode reserves the right to withdraw students due to excessive absences.
 
 Make it clear to students that class attendance is required and crucial for success. Attendance exceptions can be made by LaunchCode staff. Have students contact LaunchCode staff regarding planned absences or scheduling conflicts.
 

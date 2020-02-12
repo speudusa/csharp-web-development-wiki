@@ -7,10 +7,10 @@ Remember that Canvas is the source of truth in regards to the student's status i
 ## Data Stored in Canvas
 
 * Attendance record
-  * Manually entered by TFs
+  * Manually entered by TAs
   * **Counts toward** final grade for student
 * Graded Assignments
-  * Manually scored and entered by TFs
+  * Manually scored and entered by TAs
   * **Counts toward** final grade for student
 * Concept Checks
   * Auto-graded

@@ -6,13 +6,13 @@
 * All student tasks will be listed as assignments in Canvas.
 * Access Canvas by going to [learn.launchcode.org](https://learn.launchcode.org)
 * Students will be enrolled in the Canvas course.
-* Instructors and TFs will be added as teachers.
+* Instructors and TAs will be added as teachers.
 * Student grades, including attendance will be recorded in Canvas.
   * See [grading section](https://github.com/LaunchCodeEducation/csharp-web-development/wiki/Grading-and-Student-Progress) for how to grade.
 
 ## Course Book
 
-* The [csharp Web Development book](https://education.launchcode.org/csharp-web-development/) contains the chapters to be read, exercises, studio, and assignments.
+* The [C# Web Development book](https://education.launchcode.org/csharp-web-development/) contains the chapters to be read, exercises, studio, and assignments.
 * The book is open source, please create github issues on the [github repo](https://github.com/LaunchCodeEducation/csharp-web-development/issues) to provide direct feedback.
 
 ## Github
