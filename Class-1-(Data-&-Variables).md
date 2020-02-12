@@ -1,10 +1,10 @@
 ## In the prep work this week, the students learned:
 
-1. Set up a Java development environment and execute Java programs
-1. Understand Java's type system
+1. Set up a csharp development environment and execute csharp programs
+1. Understand csharp's type system
    1. how static typing differs from dynamic typing
    1. primitive types vs non-primitives
-1. Write simple Java programs
+1. Write simple csharp programs
 
 ## Announcements
 
@@ -29,11 +29,11 @@
 1. Getting IntelliJ installed and a first project set up. There are a number of 
    project defaults needed that some students may have questions on. Encourage them to get comfortable with IntelliJ since we'll be using it lot from now on.
 1. Declaring types in a statically typed language can be tricky for learners          coming from learning a dynamically typed language.
-1. Autoboxing and the relationship between primitives and non-primitives in Java.
+1. Autoboxing and the relationship between primitives and non-primitives in csharp.
    1. This is a very tricky topic that will be adressed more throughout the course.
       Students should be starting to get comfortable with these ideas but it is normal if they need more time to consider these ideas.
    1. One of the most critical aspects of this is the referential nature of objects
-      in Java.
+      in csharp.
 1. Graded Assignment #1 is open! With each of the graded assignments in this unit, the key is to read through everything carefully and start on what you can do as soon as possible. In class, read through the instructions with your students and highlight what they are capable of doing after this class.
 
 ## Studio (TF Notes)
@@ -51,7 +51,7 @@
 
 ### Class 1 Studio
 
-1. Ensure students successfully fork and clone the ``java-web-dev-exercises`` repo.
+1. Ensure students successfully fork and clone the ``csharp-web-dev-exercises`` repo.
 1. Make sure students properly create the package and Classes.
 1. Studios are NOT graded, but for this first task, you should do a visual check of each student's output.
    1. The best time to do this is during the studio!

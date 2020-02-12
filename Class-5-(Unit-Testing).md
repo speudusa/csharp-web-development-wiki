@@ -9,7 +9,7 @@
    * How to write tests to make code self-documenting
    * Why comments are not the best form of documenting code behavior
 
-1. How to place tests in the correct location within a Java project
+1. How to place tests in the correct location within a csharp project
 1. How to use the ``@Test`` annotation to mark a test method
 1. How to use ``@Before`` to generate test data to be used by each test within a class
 1. The behavior of ``@After``
@@ -32,7 +32,7 @@
    * ``main`` and ``test`` packages
    * Grouping related tests
 1. Talk about tests that use AAAs, are deterministic, relevant, and meaningful
-1. Java annotations - what are they and what do they do
+1. csharp annotations - what are they and what do they do
    * ``@Test``
    * ``@Before``
    * ``@After``

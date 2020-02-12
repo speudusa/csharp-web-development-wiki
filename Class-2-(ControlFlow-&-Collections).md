@@ -2,7 +2,7 @@
 
 ## In the prep work this week, the students learned
 
-1. The Java syntax for conditionals and loops:
+1. The csharp syntax for conditionals and loops:
     1. if/else if/else
     1. switch statements
     1. for, while, and do...while
@@ -17,8 +17,8 @@
 
 ### Class 2 Topics That Require Careful Attention
 
-1. Encouragement: Point out that learning a second coding language is usually easier than learning the first. The students already know how to use loops and conditionals, so applying them in Java is just a matter of recognizing the different syntax.
-    1. Ask the class to give some examples of similarities or differences for conditionals and loops in Java vs. other coding languages.
+1. Encouragement: Point out that learning a second coding language is usually easier than learning the first. The students already know how to use loops and conditionals, so applying them in csharp is just a matter of recognizing the different syntax.
+    1. Ask the class to give some examples of similarities or differences for conditionals and loops in csharp vs. other coding languages.
 1. The "fallthrough" aspect of ``switch`` statements is not always obvious and should be reviewed. However, do not sink too much time into this, since the students will use ``if/else`` statements much more often than ``switch``.
 1. Ask the students to explain the difference between ``while`` and ``do...while`` loops.
 1. Review how to use ``break`` and ``continue`` statements within loops.

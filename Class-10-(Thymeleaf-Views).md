@@ -18,7 +18,7 @@
 
 ### Class 10 Topics That Require Careful Attention
 
-1. Remind the students that when they start a new project, Java 13 and Gradle 6 are the versions they should use.
+1. Remind the students that when they start a new project, csharp 13 and Gradle 6 are the versions they should use.
 1. Just like lesson 8, lesson 10 includes short videos that provide guided, live-coding practice. Remind the students that the text included before and after the clips is NOT intended as a replacement for the videos.
 1. For ``th:text``, the syntax for mixing static text with variables is awkward. Provide an example for how to accomplish this.
 1. ``th:block`` is a little more abstract than the other Thymeleaf options. Review why this *element* (not attribute) helps improve our template code.

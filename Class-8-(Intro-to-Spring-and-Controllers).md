@@ -15,17 +15,17 @@
 
 ### Class 8 Topics That Require Careful Attention
 
-1. The Java/Gradle development environment can be tricky. We've included required configuration checks.
+1. The csharp/Gradle development environment can be tricky. We've included required configuration checks.
 in the book. Be sure to check that these are met. Some students may encounter issues that we were not able to anticipate in the text. Some minor versions of the software may be different than what is listed in the text.
 
-   1. Java 13 and Gradle 6 are the most crucial to have.
+   1. csharp 13 and Gradle 6 are the most crucial to have.
    1. If a student has an environment or build issue, do your best to reassure them that these types of configuration hurdles can be common.
 
 1. Lesson 8 content includes a number of short videos meant to be coding walkthroughs. Remind the students that it is critical to code along with these. We introduce some IntelliJ tips they may find useful, as well as provide visual aids for the controller tasks we give them.
 
 1. You may find it useful to review some relevant HTTP topics since a foundational understanding of the protocol is expected.
 
-1. ``@RequestMapping`` is the first Java annotation students have seen that can take a parameter.
+1. ``@RequestMapping`` is the first csharp annotation students have seen that can take a parameter.
 
 ## Small Group Time: Class 8 Studio (TA Notes)
 

@@ -1,6 +1,6 @@
 ## In the prep work this week, the students learned:
 
-1. What a class is in Java and how instantiating classes create objects.
+1. What a class is in csharp and how instantiating classes create objects.
 1. The difference between fields and methods
 1. What access modifiers are and how they can be used to encapsulate data.
 1. What the Single Responsibility Principle is and why we should make our classes responsible for one thing.

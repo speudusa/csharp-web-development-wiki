@@ -3,9 +3,9 @@
 ## In the prep work this week, the students learned
 
 1. How and why to validate model data in Spring Boot.
-1. How to use Java Validation API annotations.
+1. How to use csharp Validation API annotations.
 1. How to employ good error handling when bad data is entered.
-1. What ``enum`` data types are how to write them in Java.
+1. What ``enum`` data types are how to write them in csharp.
 
 ## Announcements
 
@@ -23,7 +23,7 @@
    b. How can bad data be dangerous?
 
 1. Be sure that the students can differentiate between client and server side validation tools.
-1. Discuss some commonly annotations from the [Java Validation API](https://javaee.github.io/javaee-spec/javadocs/javax/validation/constraints/package-summary.html).
+1. Discuss some commonly annotations from the [csharp Validation API](https://csharpee.github.io/csharpee-spec/csharpdocs/csharpx/validation/constraints/package-summary.html).
 1. Walk the students through the *validation flow* mentioned in the text, perhaps with a new sample field on the ``Event`` model from ``coding-events`` .
 1. Compare strong error message and handling techniques to weaker examples.
 1. Address ``enum`` data types:

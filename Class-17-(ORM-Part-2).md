@@ -15,7 +15,7 @@
 
 ### Class 17 Topics That Require Careful Attention
 
-1. Again, review the relationship between Java classes/objects and database tables/rows.
+1. Again, review the relationship between csharp classes/objects and database tables/rows.
 1. Address the inverse relationship of one-to-many and many-to-one related classes.
 1. Touch upon the fact that these types of relationships between classes need not be bi-directional.
 1. Confirm that students understand the benefit that ``AbstractEntity`` provides and what ``@MappedSuperclass`` does.

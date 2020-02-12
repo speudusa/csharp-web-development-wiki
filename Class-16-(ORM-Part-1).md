@@ -16,7 +16,7 @@
 
 ### Class 16 Topics That Require Careful Attention
 
-1. Review the relationship between Java classes/objects and database tables/rows.
+1. Review the relationship between csharp classes/objects and database tables/rows.
 1. The students went through a number of different steps to get their Spring apps going and storing events and event categories. Review each setup step and why it matters.
    1. Creating a new schema and add a new user in MySQL Workbench.
    1. Add the necessary dependencies in IntelliJ.

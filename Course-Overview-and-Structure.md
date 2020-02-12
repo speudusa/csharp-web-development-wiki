@@ -12,7 +12,7 @@ Most of the traditional instruction will be done at home via online reading and 
 
 Teach students, from wide ranging backgrounds, these topics:
 
-* Basic functional Java
+* Basic functional csharp
 * Programming in an IDE
 * Introduction to Spring Boot framework
 * Object oriented concepts and MVC architecture
@@ -44,7 +44,7 @@ Instructors and TFs are crucial to the success of the students. These tasks help
 * Report Issues to LaunchCode (LC) staff
   * Contact LC staff by Slack, email, or in person.
   * LC staff needs to know about issues with: students, TFs, facilities, curriculum, course tools
-    * [For issues requiring changes to the curriculum material, including bugs](https://github.com/LaunchCodeEducation/java-web-development/wiki/Course-Overview-and-Structure#Bug-and-Issue-Reporting)
+    * [For issues requiring changes to the curriculum material, including bugs](https://github.com/LaunchCodeEducation/csharp-web-development/wiki/Course-Overview-and-Structure#Bug-and-Issue-Reporting)
 * Facilitate large group (full class) activities
   * Examples
     * What to review/demo in primary instruction
@@ -89,4 +89,4 @@ Students should notify their TA or instructor of any issues they find in course 
 
 - Message the Ed Team in the course Slack (@EducationTeam)
 - Email the Ed Team at education@launchcode.org
-- Create a [new issue on GitHub](https://github.com/LaunchCodeEducation/java-web-development/issues) (only for non-urgent issues)
+- Create a [new issue on GitHub](https://github.com/LaunchCodeEducation/csharp-web-development/issues) (only for non-urgent issues)

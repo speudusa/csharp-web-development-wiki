@@ -8,12 +8,12 @@
 * Students will be enrolled in the Canvas course.
 * Instructors and TFs will be added as teachers.
 * Student grades, including attendance will be recorded in Canvas.
-  * See [grading section](https://github.com/LaunchCodeEducation/java-web-development/wiki/Grading-and-Student-Progress) for how to grade.
+  * See [grading section](https://github.com/LaunchCodeEducation/csharp-web-development/wiki/Grading-and-Student-Progress) for how to grade.
 
 ## Course Book
 
-* The [Java Web Development book](https://education.launchcode.org/java-web-development/) contains the chapters to be read, exercises, studio, and assignments.
-* The book is open source, please create github issues on the [github repo](https://github.com/LaunchCodeEducation/java-web-development/issues) to provide direct feedback.
+* The [csharp Web Development book](https://education.launchcode.org/csharp-web-development/) contains the chapters to be read, exercises, studio, and assignments.
+* The book is open source, please create github issues on the [github repo](https://github.com/LaunchCodeEducation/csharp-web-development/issues) to provide direct feedback.
 
 ## Github
 

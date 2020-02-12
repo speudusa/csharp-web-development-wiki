@@ -45,7 +45,7 @@ Graded assignment scores are recorded in Canvas.
    1. A live demo may also be required depending on assignment instructions
 1. Enter grade in Canvas
    1. If the code meets the requirements, then mark the assignment complete in Canvas
-   1. More about feedback in the [feedback section](https://github.com/LaunchCodeEducation/java-web-development/wiki/Grading-and-Student-Progress#feedback)
+   1. More about feedback in the [feedback section](https://github.com/LaunchCodeEducation/csharp-web-development/wiki/Grading-and-Student-Progress#feedback)
 
 ### Canvas Grade Form
 
@@ -56,14 +56,14 @@ Graded assignment scores are recorded in Canvas.
 5. Click on the blue corner to open the grading form.
 
 <div>
-<img style="width: 500px;" src="https://raw.githubusercontent.com/LaunchCodeEducation/java-web-development-wiki/master/wiki-materials/canvas-grade-hover.png"/>
+<img style="width: 500px;" src="https://raw.githubusercontent.com/LaunchCodeEducation/csharp-web-development-wiki/master/wiki-materials/canvas-grade-hover.png"/>
 </div>
 
 6. Enter the grade and comments.
 7. Submit the grade
 
 <div>
-<img style="width: 500px;" src="https://raw.githubusercontent.com/LaunchCodeEducation/java-web-development-wiki/master/wiki-materials/canvas-grade-submission.png"/>
+<img style="width: 500px;" src="https://raw.githubusercontent.com/LaunchCodeEducation/csharp-web-development-wiki/master/wiki-materials/canvas-grade-submission.png"/>
 </div>
 
 ## Student Progress
@@ -78,7 +78,7 @@ The student's work and data in Canvas can be used to gauge how well the student 
 * Exercises
   * These are practice problems as prep work.
   * Check Github to see if students are attempting these and if they are having success.
-  * NOTE: [Giving feedback](https://github.com/LaunchCodeEducation/java-web-development/wiki/Grading-and-Student-Progress#feedback) in Github
+  * NOTE: [Giving feedback](https://github.com/LaunchCodeEducation/csharp-web-development/wiki/Grading-and-Student-Progress#feedback) in Github
 * Graded Assignments
   * This is where students put multiple concepts together to solve a larger problem.
   * Students often struggle getting started and then combining all the required concepts.
@@ -94,4 +94,4 @@ Reviewing student code in class is a great way to give instant feedback. **DO NO
 
 ## Feedback in Canvas
 
-Feedback can be given for graded assignments on the grading form. See [section on Canvas grading](https://github.com/LaunchCodeEducation/java-web-development/wiki/Grading-and-Student-Progress#canvas-grade-form) for how to open grading form.
+Feedback can be given for graded assignments on the grading form. See [section on Canvas grading](https://github.com/LaunchCodeEducation/csharp-web-development/wiki/Grading-and-Student-Progress#canvas-grade-form) for how to open grading form.

@@ -12,7 +12,7 @@ Help LaunchCode make the course better and maintain student trust in the curricu
 
 * Please send feedback, suggestions, and bug reports to a LaunchCode staff member
 
-   * [Reporting Issues](https://github.com/LaunchCodeEducation/java-web-development/wiki/Course-Overview-and-Structure#Bug-and-Issue-Reporting)
+   * [Reporting Issues](https://github.com/LaunchCodeEducation/csharp-web-development/wiki/Course-Overview-and-Structure#Bug-and-Issue-Reporting)
 
 * Do not speak negatively of the curriculum in front of the students
 * Do not teach topics or tools that are not in the curriculum
