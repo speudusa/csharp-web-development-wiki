@@ -23,7 +23,7 @@
 1. The *fallthrough* aspect of ``switch`` statements is not always obvious and should be reviewed. However, do not sink too much time into this, since the students will use ``if/else`` statements much more often than ``switch``.
 1. Ask the students to explain the difference between ``while`` and ``do...while`` loops.
 1. Review how to use ``break`` and ``continue`` statements within loops.
-1. Review ``for...each`` loops in the context of array and list collections. Note
+1. Review ``foreach`` loops in the context of array and list collections. Note
 how the syntax changes when applied to dictionaries.
 1. As much as possible, live-code examples for lists and dictionaries, including how to use the most common methods.
 
@@ -36,7 +36,7 @@ how the syntax changes when applied to dictionaries.
 1. Common mistakes:
     1. Not properly setting up the ``Main`` method.
     1. Forgetting to import the necessary classes (e.g. List).
-    1. Even though Dictionaries are the better option, many students will try to use arrays or lists because they see them as being easier. While the students could make these collections work, be prepared to nudge them in a different direction if they get stuck.
+    1. Even though dictionaries are the better option, many students will try to use arrays or lists because they see them as being easier. While the students could make these collections work, be prepared to talk about the differences between the different types of collections and why dictionaries would be the better option.
 1. Be sure to do a visual check of your students' code.
 1. For the students who finish early, ask guided questions to encourage them to try one or more of the bonus tasks (e.g. "How could you modify your code to count 'a' and 'A' as the same letter?").
 1. Remind your students to push their work up to GitHub when they finish the studio.
