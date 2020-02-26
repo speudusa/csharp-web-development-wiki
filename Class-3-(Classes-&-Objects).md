@@ -1,8 +1,8 @@
 ## In the prep work this week, the students learned:
 
-1. What a class is in csharp and how instantiating classes create objects.
-1. The difference between fields and methods
-1. What access modifiers are and how they can be used to encapsulate data.
+1. What a class is in C# and how instantiating classes creates objects.
+1. The difference between fields and methods.
+1. What access modifiers are and how modifiers can be used to encapsulate data.
 1. What the Single Responsibility Principle is and why we should make our classes responsible for one thing.
 
 ## Announcements
@@ -10,6 +10,7 @@
 1. Class 4 prep work should be active by the end of class.
 1. Graded Assignment #1 is due soon!
 1. Graded Assignment #2 opens soon! Remember to get started with graded assignments as soon as possible and read through all of the directions before starting!
+1. Check with your course manager for any additional announcements.
 
 ## Large Group Time (Instructor)
 
