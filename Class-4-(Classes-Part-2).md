@@ -2,7 +2,7 @@
 
 ## In the prep work this week, the students learned
 
-1. How to customize fields with the keywords ``final`` and ``static``.
+1. How to customize fields with the keywords ``readonly`` and ``static``.
 1. How to add methods to a class and call those methods.
 1. The difference between instance methods and static methods.
 1. How to override the default ``ToString`` and ``Equals`` methods for a class.
@@ -18,7 +18,7 @@
 ### Class 4 Topics That Require Careful Attention
 
 1. Q&A for the prep work exercises.
-1. The words ``final`` and ``static`` can be confusing if the students take the latter term to mean "unchanging". Be sure to review what each keyword means and the results of applying each one to a field.
+1. The words ``readonly`` and ``static`` can be confusing if the students take the latter term to mean "unchanging". Be sure to review what each keyword means and the results of applying each one to a field.
 1. Pay particular attention to why we want to use the ``Equals`` method rather than the ``==`` operator to compare objects.
     1. Review the difference between comparing *identity* vs. *equality*.
     1. Note the default behavior of the ``Equals`` method.
