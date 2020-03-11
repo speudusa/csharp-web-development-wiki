@@ -12,7 +12,7 @@
 1. How to place tests in the correct location within a csharp project
 1. How to use the ``[TestMethod]`` annotation to mark a test method and the ``[TestClass]`` annotation to mark a test class.
 1. How to use ``[TestInitialize]`` to generate test data to be used by each test within a class.
-1. How to run MSTest tests as a group, or individually, within IntelliJ
+1. How to run MSTest tests as a group, or individually, within Visual Studio.
 1. How to use common assertion methods: ``Assert.AreEqual``, ``Assert.IsFalse``, ``Assert.IsTrue``, ``Assert.IsNotNull``
 
 ## Announcements
@@ -35,12 +35,13 @@
    * ``[TestClass]``
    * ``[TestMethod]``
    * ``[TestInitialize]``
+   * ``[TestCleanup]``
 1. Running test files and running single tests
 
 ## Small Group Time: Class 5 Studio (TF Notes)
 
 1. This studio asks students to write tests for a broken method
-1. Students must fork the started code and start a Visual Studio solution from Git
+1. Students must fork the starter code and start a Visual Studio solution from Git
 1. The instructions for this studio are limited to encourage students to discuss
    testing strategy
 1. A good development strategy would be to write the tests for the described behavior, then modify the class to pass the tests
