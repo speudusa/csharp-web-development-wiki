@@ -21,7 +21,7 @@
 
 1. You may find it useful to review some relevant HTTP topics since a foundational understanding of the protocol is expected.
 
-1. ``[Route()]`` is the first C# attribute students have seen that can take a parameter.
+1. Though the students have been introduced to C# attributes in the unit testing lesson, the attributes introduced in this chapter are the first they have seen that can take parameters. Spend some time reviewing what these parameters accomplish on the attributes.
 
 ## Small Group Time: Class 8 Studio (TA Notes)
 
