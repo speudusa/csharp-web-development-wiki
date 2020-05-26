@@ -5,7 +5,7 @@
 1. More about the "view" portion the MVC design pattern.
 1. Why using templates to design a website is a good idea.
 1. How to create templates using Razor.
-1. How to add iteration, conditionals, and fragments to a template.
+1. How to add iteration, conditionals, and forms to a template.
 1. How to link a template to static resources like CSS stylesheets, scripts, images, etc.
 1. How to render a template using ASP.NET controllers.
 
