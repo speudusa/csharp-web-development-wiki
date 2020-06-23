@@ -26,12 +26,12 @@
    c. Why would using a ViewModel be beneficial in model validation?
 
 1. Be sure that the students can differentiate between client and server side validation tools.
-1. Discuss some commonly attributes from the [C#](https://docs.microsoft.com/en-us/dotnet/api/system.componentmodel.dataannotations?view=netcore-3.1).
-1. Walk the students through the *validation flow* mentioned in the text, perhaps with a new sample property on the ``Event`` model from ``CodingEvents`` .
+1. Discuss some commonly-used attributes from the [C#](https://docs.microsoft.com/en-us/aspnet/core/mvc/models/validation?view=aspnetcore-3.1#built-in-attributes).
+1. Walk the students through the *validation flow* mentioned in the text, perhaps with a new sample property on ``AddEventViewModel`` from ``CodingEvents`` .
 1. Compare strong error message and handling techniques to weaker examples.
 1. Address ``enum`` data types:
 
-   a. How to create an ``enum`` and add custom properties.
+   a. How to create an ``enum``.
 
    b. How to add an ``enum`` type property onto a class.
 
