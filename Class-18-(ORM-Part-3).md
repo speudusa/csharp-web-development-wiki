@@ -2,10 +2,9 @@
 
 ## In the prep work this week, the students learned
 
-1. How to build persistent model classes with one-to-one and many-to-many relationships.
+1. How to build persistent model classes with many-to-many relationships.
 1. What a composite key is.
 1. What a join table is.
-1. How to use different annotations such as ``@OneToOne`` and ``@ManyToMany``.
 
 ## Announcements
 
@@ -15,10 +14,8 @@
 ## Large Group Time (Instructor)
 
 ### Class 18 Topics That Require Careful Attention
-1. Review the one-to-many and many-to-one relationships in preparation to discuss one-to-one and many-to-many relationships.
-1. Go over what the ``cascade`` parameter does in different scenarios and how ``cascade = CascadeType.ALL`` ensures child objects are saved when saving the parent object.
-1. How programmers use a Data Transfer Object to establish relationships between many-to-many entities.
-
+1. Review the one-to-many and many-to-one relationships in preparation to discuss many-to-many relationships.
+1. How programmers use join tables to establish relationships between many-to-many entities.
 
 ## Small Group Time: Class 18 Studio (TA Notes)
 
