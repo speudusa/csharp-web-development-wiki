@@ -23,7 +23,7 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/csharp-web-dev
 * [Class 5 - Unit Testing](https://github.com/LaunchCodeEducation/csharp-web-development/wiki/Class-5-(Unit-Testing))
 * [Class 6 - Inheritance](https://github.com/LaunchCodeEducation/csharp-web-development/wiki/Class-6-(Inheritance))
 * [Class 7 - Interfaces](https://github.com/LaunchCodeEducation/csharp-web-development/wiki/Class-7-(Interfaces))
-* [Class 8 - Intro to Spring and Controllers](https://github.com/LaunchCodeEducation/csharp-web-development/wiki/Class-8-(Intro-to-Spring-and-Controllers))
+* [Class 8 - Intro to MVC and Controllers](https://github.com/LaunchCodeEducation/csharp-web-development/wiki/Class-8-(Intro-to-MVC-and-Controllers))
 * [Class 9 - Exceptions and Build Tools](https://github.com/LaunchCodeEducation/csharp-web-development/wiki/Class-9-(Exceptions-&-Build-Tools))
 * [Class 10 - Razor Views](https://github.com/LaunchCodeEducation/csharp-web-development/wiki/Class-10-(Razor-Views))
 * [Class 11 - Model Classes and Model Binding](https://github.com/LaunchCodeEducation/csharp-web-development/wiki/Class-11-(Model-Classes-and-Model-Binding))
