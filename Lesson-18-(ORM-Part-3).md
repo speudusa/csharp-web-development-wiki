@@ -1,4 +1,4 @@
-# Class 18: Object-Relational Mapping Part 3
+# Lesson 18: Object-Relational Mapping Part 3
 
 ## In the prep work this week, the students learned
 
@@ -13,11 +13,11 @@
 
 ## Large Group Time (Instructor)
 
-### Class 18 Topics That Require Careful Attention
+### Lesson 18 Topics That Require Careful Attention
 1. Review the one-to-many and many-to-one relationships in preparation to discuss many-to-many relationships.
 1. How programmers use join tables to establish relationships between many-to-many entities.
 
-## Small Group Time: Class 18 Studio (TA Notes)
+## Small Group Time: Lesson 18 Studio (TA Notes)
 
-1. The studio time for Class 18 is focused on working on Assignment #4. Check in with your students to see their progress.
+1. The studio time for Lesson 18 is focused on working on Assignment #4. Check in with your students to see their progress.
 1. Some students may only be working on the assignment during the in-class work time. While understandable, emphasize to students that this assignment takes time and they should be putting in time outside of class too.

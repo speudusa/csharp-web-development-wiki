@@ -1,4 +1,4 @@
-# Class 9: Exceptions and Build Tools
+# Lesson 9: Exceptions and Build Tools
 
 ## In the prep work this week, the students learned
 
@@ -15,7 +15,7 @@
 
 ## Large Group Time (Instructor)
 
-### Class 9 Topics That Require Careful Attention
+### Lesson 9 Topics That Require Careful Attention
 
 1. Much of the reading is based around debugging and handling errors. Don't be afraid to share your own experiences with debugging and your own process when it comes to using debugging tools and exception handling.
 1. Share an exception example and go over the following:
@@ -25,7 +25,7 @@
 1. Review MSBuild and NuGet. Go over what each one does and why each one matters.
 1. Show how to use debugging tools in Visual Studio to see the *Call Stack*, add breakpoints, and address common problems.
 
-## Small Group Time: Class 9 Studio (TA Notes)
+## Small Group Time: Lesson 9 Studio (TA Notes)
 
 1. Students will be sharing their errors and trying to use debugging tools on ``HelloASPDotNETDemo``. Some things to keep in mind:
    1. Don't be afraid to share your own stories of bugs and errors in your code! Emphasize that every programmer has to deal with bugs and that it gets a lot easier once you have a strategy in place and the tools 

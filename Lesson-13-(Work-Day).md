@@ -1,4 +1,4 @@
-# Class 13: Work Day
+# Lesson 13: Work Day
 
 The students have no prep work for this class and no new material will be introduced. Today's class is designed to be an in-person working day. 
 

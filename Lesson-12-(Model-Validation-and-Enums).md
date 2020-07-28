@@ -1,4 +1,4 @@
-# Class 12: ViewModels, Model Validation, and Enums
+# Lesson 12: ViewModels, Model Validation, and Enums
 
 ## In the prep work this week, the students learned
 
@@ -15,7 +15,7 @@
 
 ## Large Group Time (Instructor)
 
-### Class 12 Topics That Require Careful Attention
+### Lesson 12 Topics That Require Careful Attention
 
 1. You may want to introduce the topic of model validation with a more widely-scoped discussion of data handling:
 
@@ -37,7 +37,7 @@
 
    c. What kind of data is handled well with ``enums``.
 
-## Small Group Time: Class 12 Studio (TA Notes)
+## Small Group Time: Lesson 12 Studio (TA Notes)
 
 1. Today's studio asks students to add validation for the ``User`` model in their spa day application. If they were not able to complete the user signup studio work from the previous class, they will still be able to work on this studio.
 1. Starter code is provided for the students in the ``LaunchCodeEducation/SpaDay`` repository. If they have not already added this as an ``upstream`` remote repository in addition to their own forked version, they may need to in order to fetch the appropriate starter branch for the studio.

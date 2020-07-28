@@ -1,4 +1,4 @@
-# Class 5: Unit Testing
+# Lesson 5: Unit Testing
 
 ## In the prep work this week, the students learned
 
@@ -23,7 +23,7 @@
 
 ## Large Group Time (Instructor)
 
-### Class 5 Topics That Require Careful Attention
+### Lesson 5 Topics That Require Careful Attention
 
 1. Review the ideas of automated testing and why it is important
 1. Touch on adding the project as a dependency for the test project
@@ -38,7 +38,7 @@
    * ``[TestCleanup]``
 1. Running test files and running single tests
 
-## Small Group Time: Class 5 Studio (TF Notes)
+## Small Group Time: Lesson 5 Studio (TF Notes)
 
 1. This studio asks students to write tests for a broken method
 1. Students must fork the starter code and start a Visual Studio solution from Git

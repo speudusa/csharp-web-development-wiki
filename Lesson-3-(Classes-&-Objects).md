@@ -1,3 +1,5 @@
+# Lesson 3: Classes and Objects
+
 ## In the prep work this week, the students learned:
 
 1. What a class is in C# and how instantiating classes creates objects.
@@ -14,7 +16,7 @@
 
 ## Large Group Time (Instructor)
 
-### Class 3 Topics That Require Careful Attention
+### Lesson 3 Topics That Require Careful Attention
 
 1. The differences between classes and objects can be confusing for some students.
 1. Object-oriented Programming, encapsulation, and the Single Responsibility Principle can all be very confusing and hard for students to envision.
@@ -23,7 +25,7 @@
     1. This is also a good segue into the studio.
 1. When demonstrating code, be sure to highlight auto-implemented properties! Using this feature can be tricky, but once students master it, coding classes in C# becomes a bit more efficient!
 
-## Class 3 Studio TF Notes
+## Lesson 3 Studio TF Notes
 
 1. Pace the studio carefully. Students will start by designing their own classes, but also need ample time to share their class design with their partners.
 1. If the group is an odd number, either pair with the student who doesn't have a partner or make one group a group of 3.

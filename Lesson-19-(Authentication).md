@@ -1,4 +1,4 @@
-# Class 19: Authentication
+# Lesson 19: Authentication
 
 ## In the prep work this week, the students learned
 
@@ -16,14 +16,14 @@
 
 ## Large Group Time (Instructor)
 
-### Class 19 Topics That Require Careful Attention
+### Lesson 19 Topics That Require Careful Attention
 1. Review hashing and one-way encryption. Remind students that passwords are not stored, but the encrypted password is stored.
 1. Discuss popular hashing algorithms and how to implement them
 1. Cover salting as a practice - what is it and why it helps
 1. Lots of information is delivered in the tutorial on adding authentication to ``CodingEvents``, including some new ASP.NET packages and advanced topics that we only introduce briefly. It is important to emphasize for students that it's ok to treat this topic as an introduction. We are not asking them to be security experts at this point, but this is all valuable information for professional applications and getting exposed to it early on is very useful for their careers
 1. Emphasize the importance of the process, not necessarily knowing the exact syntax to get it done.
 
-## Small Group Time: Class 19 Studio (TA Notes)
+## Small Group Time: Lesson 19 Studio (TA Notes)
 
 1. The studio is focused on adding authentication to ``TechJobs``.
 1. The book goes over adding authentication to ``CodingEvents``. While the studio is meant to be an exercise in applying the same things to ``TechJobs``, caution against simply copy/pasting!

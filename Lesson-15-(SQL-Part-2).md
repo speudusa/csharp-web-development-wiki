@@ -1,4 +1,4 @@
-# Class 15: The SQL Sequel
+# Lesson 15: The SQL Sequel
 
 ## In the prep work this week, the students learned
 
@@ -14,7 +14,7 @@
 
 ## Large Group Time (Instructor)
 
-### Class 15 Topics That Require Careful Attention
+### Lesson 15 Topics That Require Careful Attention
 
 1. Review one-to-many relationships, and provide some practical, real-life examples.
     1. The book references one-to-one and many-to-many relationships but does not go into detail. Provide some scenarios and examples for situations that use these relationships.
@@ -28,7 +28,7 @@
     1. How to use a join and a subquery.
 1. Review the studio!
 
-## Small Group Time: Class 15 Studio (TA Notes)
+## Small Group Time: Lesson 15 Studio (TA Notes)
 
 1. Remember to check in with each of your students. A good time to shoulder-surf today is during the warm-up SQL query tasks.
 1. Just like SQL part 1, the students will need to make a new model, create tables, and download and import data. Be ready to provide reminders and troubleshooting for anyone who struggles with this process.
