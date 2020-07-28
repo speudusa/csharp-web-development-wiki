@@ -14,7 +14,7 @@
 ## Large Group Time (Instructor)
 
 ### Class 20 Topics That Require Careful Attention
-1. Review the characteristics of a web API. The book introduces the topic in contrast the the MVC application design. How are these programs similar? Where do they diverge?
+1. Review the characteristics of a web API. The book introduces the topic in contrast to an MVC application design. How are these programs similar? Where do they diverge?
 1. REST is deceptively simple, but so important for the students to understand! The text uses a lot of new terms to describe the flow of data between a REST API and a client application. Student's won't get a chance to actually explore an API until today's studio. If you can, provide your own examples of how to make calls to an API.
 1. Make sure to leave time to do a temperature check for the previous lesson. Did everyone finish the studio? Is everyone getting the concepts? Class 19 had a lot of material in it and students will need to complete the authentication studio to receive full credit for the course. 
 
