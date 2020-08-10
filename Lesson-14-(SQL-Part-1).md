@@ -1,4 +1,4 @@
-# Class 14: Databases and SQL
+# Lesson 14: Databases and SQL
 
 ## In the prep work this week, the students learned
 
@@ -15,7 +15,7 @@
 
 ## Large Group Time (Instructor)
 
-### Class 14 Topics That Require Careful Attention
+### Lesson 14 Topics That Require Careful Attention
 
 1. Review what a relational database is. Databases seem simple, but can be kind of weird. Go over how tables store one type of info and are connected to each other.
 1. Review the different CRUD operations and reiterate warnings for updating and deleting data.
@@ -23,7 +23,7 @@
 1. Review the studio!
 1. Before students head out for studio time, let students know that if they had issues installing MySQL and/or MySQL Workbench, resolving those issues come first!
 
-## Small Group Time: Class 14 Studio (TA Notes)
+## Small Group Time: Lesson 14 Studio (TA Notes)
 
 1. Help students who had issues with installations get going!
 1. Remind your students to follow the sequence of the instructions. If they don't, it is very easy to get tripped up later!

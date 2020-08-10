@@ -1,4 +1,4 @@
-# Class 17: Relationships in Object-Relational Mapping
+# Lesson 17: Relationships in Object-Relational Mapping
 
 ## In the prep work this week, the students learned
 
@@ -12,7 +12,7 @@
 
 ## Large Group Time (Instructor)
 
-### Class 17 Topics That Require Careful Attention
+### Lesson 17 Topics That Require Careful Attention
 
 1. Again, review the relationship between C# classes/objects and database tables/rows.
 1. Address the inverse relationship of one-to-many and many-to-one related classes.
@@ -22,7 +22,7 @@
    a. The in-book ``CodingEvents`` example makes use of ``.Where()``, ``.Include()``, and lambda expressions. It would also be wise to review these.
 
 
-## Small Group Time: Class 17 Studio (TA Notes)
+## Small Group Time: Lesson 17 Studio (TA Notes)
 
 1. Studio time in today's class is reserved to work on Assignment 4. 
 1. Please take the time to complete the assignment yourself before class, or at least get familiar with the tasks at hand. Offer your experience solving the various parts or setting up the database so that you may share any stumbling blocks you may have encountered.

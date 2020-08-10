@@ -1,3 +1,5 @@
+# Lesson 1: Data and Variables
+
 ## In the prep work this week, the students learned:
 
 1. How to set up a C# development environment and execute C# programs
@@ -24,7 +26,7 @@
 1. Introduce the TFs and assign groups (may be done during the studio intro).
 1. Other relevant contact information.
 
-### Class 1 Topics That Require Careful Attention
+### Lesson 1 Topics That Require Careful Attention
 
 1. Getting Visual Studio installed and a first project set up. The development environment requires some dependencies and the software works differently on Windows and Mac machines. Encourage students to get comfortable with Visual Studio (VS) since we'll be using it lot from now on.
 1. Declaring types in a statically typed language can be tricky for learners coming from learning a dynamically typed language.
@@ -48,7 +50,7 @@
 1. Assist individuals as questions arise. Address frequent mistakes and/or questions to your whole group.
 1. Make a note of any issues that occur during the studio and provide that feedback to the instructor and LaunchCode team.
 
-### Class 1 Studio
+### Lesson 1 Studio
 
 1. Ensure students successfully create a new solution/project in VS for the studio.
 1. Make sure students select the console app option and give their project an appropriately descriptive name.

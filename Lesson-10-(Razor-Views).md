@@ -1,4 +1,4 @@
-# Class 10: Razor Views
+# Lesson 10: Razor Views
 
 ## In the prep work this week, the students learned
 
@@ -16,7 +16,7 @@
 
 ## Large Group Time (Instructor)
 
-### Class 10 Topics That Require Careful Attention
+### Lesson 10 Topics That Require Careful Attention
 
 1. Remind the students what ASP.NET Core MVC is.
 1. Just like lesson 8, lesson 10 includes short videos that provide guided, live-coding practice. Remind the students that the text included before and after the clips is NOT intended as a replacement for the videos.
@@ -25,7 +25,7 @@
 1. Touch upon ``Shared/_Layout.cshtml`` and Bootstrap basics.
 1. Show some examples of how to add route links with ``asp-controller`` and ``asp-action``.
 
-## Small Group Time: Class 10 Studio (TA Notes)
+## Small Group Time: Lesson 10 Studio (TA Notes)
 
 1. Do your best to help students who may be stuck with any Visual Studio build issues, errors, or warnings.
 1. Walk around and make sure no one is struggling with forking, cloning, and opening the starter code.

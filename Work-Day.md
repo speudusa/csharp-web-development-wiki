@@ -1,8 +1,9 @@
-# Class 13: Work Day
+# Work Days
 
-The students have no prep work for this class and no new material will be introduced. Today's class is designed to be an in-person working day. 
+Work days occur throughout the unit.
+The students have no prep work for work days and no new material will be introduced. 
 
-TAs should address this with their students before today's class and discuss individualized prep work plans for their students. Work with your students to develop a set of goals to accomplish during the work day. Perhaps some students will take the time to complete outstanding assignments and come to class with questions that are blocking any 
+TAs should address this with their students before class and discuss individualized prep work plans for their students. Work with your students to develop a set of goals to accomplish during the work day. Perhaps some students will take the time to complete outstanding assignments and come to class with questions that are blocking any 
 further progress. For students who are up-to-date with assignments, you may offer other studying resources or encourage them to use
 the in-class time to work on prep work for the next lesson. 
 

@@ -1,4 +1,4 @@
-# Class 2: Control Flow and Collections
+# Lesson 2: Control Flow and Collections
 
 ## In the prep work this week, the students learned
 
@@ -16,7 +16,7 @@
 
 ## Large Group Time (Instructor)
 
-### Class 2 Topics That Require Careful Attention
+### Lesson 2 Topics That Require Careful Attention
 
 1. Encouragement: Point out that learning a second coding language is usually easier than learning the first. The students already know how to use loops and conditionals, so applying them in C# is just a matter of recognizing the different syntax.
     1. Ask the class to give some examples of similarities or differences for conditionals and loops in C# vs. other coding languages.
@@ -27,7 +27,7 @@
 how the syntax changes when applied to dictionaries.
 1. As much as possible, live-code examples for lists and dictionaries, including how to use the most common methods.
 
-### Class 2 Studio (TA Notes)
+### Lesson 2 Studio (TA Notes)
 
 1. With your group, discuss the "Some Items to Ponder Before Starting" section of the studio instructions.
 1. Remember to check in with EVERY student during the studio time.

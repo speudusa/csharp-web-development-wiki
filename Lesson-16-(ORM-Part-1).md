@@ -1,4 +1,4 @@
-# Class 16: Introduction to Object-Relational Mapping
+# Lesson 16: Introduction to Object-Relational Mapping
 
 ## In the prep work this week, the students learned
 
@@ -14,7 +14,7 @@
 
 ## Large Group Time (Instructor)
 
-### Class 16 Topics That Require Careful Attention
+### Lesson 16 Topics That Require Careful Attention
 
 1. Review the relationship between C# classes/objects and database tables/rows.
 1. The students went through a number of different steps to get their ASP.NET apps going and storing events. Review each setup step and why it matters.
@@ -25,7 +25,7 @@
 1. Review what a migration is and what it means for a relational database.
 1. Review the studio!
 
-## Small Group Time: Class 16 Studio (TA Notes)
+## Small Group Time: Lesson 16 Studio (TA Notes)
 
 1. If students didn't finish the exercises, they need to start with the exercises first. If they did not finish following along with the videos, they need to check out the appropriate branch in their ``CodingEventsDemo`` repository to see what they have left. If they do not have this branch, they need to fetch it from the upstream.
    1. To do so, they need to make sure the upstream is set up with ``git remote -v`` and double check that they are on ``master``.

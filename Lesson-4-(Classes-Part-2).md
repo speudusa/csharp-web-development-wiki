@@ -1,4 +1,4 @@
-# Class 4: Classes, Part 2
+# Lesson 4: Classes, Part 2
 
 ## In the prep work this week, the students learned
 
@@ -15,7 +15,7 @@
 
 ## Large Group Time (Instructor)
 
-### Class 4 Topics That Require Careful Attention
+### Lesson 4 Topics That Require Careful Attention
 
 1. Q&A for the prep work exercises.
 1. The words ``readonly`` and ``static`` can be confusing if the students take the latter term to mean "unchanging". Be sure to review what each keyword means and the results of applying each one to a field.
@@ -28,7 +28,7 @@
     1. When and why does it matter which syntax to use?
 1. Review the objectives for today's studio task. Alternatively, if the TAs raise concerns about how the students are progressing on Assignment 2, replace the studio intro with a review of the Assignment 2 objectives.
 
-## Small Group Time: Class 4 Studio (TA Notes)
+## Small Group Time: Lesson 4 Studio (TA Notes)
 
 1. This studio extends the restaurant menu that the students started in class 3. Today, they will create methods to add and remove menu items, as well as to print the menu.
 1. Pace the studio carefully. Just like last class, the students will begin planning their class methods using pen and paper, then pair up to share their ideas.

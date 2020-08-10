@@ -1,4 +1,4 @@
-# Class 8: Introduction to ASP.NET (Core), MVC, and Controllers
+# Lesson 8: Introduction to ASP.NET (Core), MVC, and Controllers
 
 ## In the prep work this week, the students learned
 
@@ -13,7 +13,7 @@
 
 ## Large Group Time (Instructor)
 
-### Class 8 Topics That Require Careful Attention
+### Lesson 8 Topics That Require Careful Attention
 
 1. The C#/ASP.NET development environment can be tricky. Some students may encounter issues that we were not able to anticipate in the text. Some minor versions of the software may be different than what is listed in the text. If a student has an environment or build issue, do your best to reassure them that these types of configuration hurdles can be common.
 
@@ -23,7 +23,7 @@
 
 1. Though the students have been introduced to C# attributes in the unit testing lesson, the attributes introduced in this chapter are the first they have seen that can take parameters. Spend some time reviewing what these parameters accomplish on the attributes.
 
-## Small Group Time: Class 8 Studio (TA Notes)
+## Small Group Time: Lesson 8 Studio (TA Notes)
 
 1. This studio will be the students' first foray into creating their own MVC project. Remind them that they will only need to pay close attention to the ``Controllers`` directory for now.
 1. Some students may also benefit from a reminder of how to create a ``select`` tag.
