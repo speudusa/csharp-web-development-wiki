@@ -13,6 +13,7 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/csharp-web-dev
 * [How to Work With Students](https://github.com/LaunchCodeEducation/csharp-web-development/wiki/Working-With-Students)
 * [Grading and Student Progress](https://github.com/LaunchCodeEducation/csharp-web-development/wiki/Grading-and-Student-Progress)
 * [Bug and Issue Reporting](https://github.com/LaunchCodeEducation/csharp-web-development/wiki/Course-Overview-and-Structure#Bug-and-Issue-Reporting)
+* [Work Days](https://github.com/LaunchCodeEducation/csharp-web-development/wiki/Work-Day)
 
 ## Class Specific Guides
 
@@ -28,7 +29,7 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/csharp-web-dev
 * [Lesson 10 - Razor Views](https://github.com/LaunchCodeEducation/csharp-web-development/wiki/Lesson-10-(Razor-Views))
 * [Lesson 11 - Model Classes and Model Binding](https://github.com/LaunchCodeEducation/csharp-web-development/wiki/Lesson-11-(Model-Classes-and-Model-Binding))
 * [Lesson 12 - Model Validation and Enums](https://github.com/LaunchCodeEducation/csharp-web-development/wiki/Lesson-12-(Model-Validation-and-Enums))
-* [Lesson 13 - Work Day](https://github.com/LaunchCodeEducation/csharp-web-development/wiki/Lesson-13-(Work-Day))
+* [Lesson 13 - Work Day](https://github.com/LaunchCodeEducation/csharp-web-development/wiki/Work-Day)
 * [Lesson 14 - Databases and SQL](https://github.com/LaunchCodeEducation/csharp-web-development/wiki/Lesson-14-(SQL-Part-1))
 * [Lesson 15 - The SQL Sequel](https://github.com/LaunchCodeEducation/csharp-web-development/wiki/Lesson-15-(SQL-Part-2))
 * [Lesson 16 - Introduction to Object-Relational Mapping](https://github.com/LaunchCodeEducation/csharp-web-development/wiki/Lesson-16-(ORM-Part-1))
