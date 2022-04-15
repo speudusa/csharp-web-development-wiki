@@ -17,9 +17,18 @@
 
 ## Announcements
 
-1. The class 6 prep work should be active by the end of class
-1. Graded Assignment #2 is open and students will now know how to set up the
-   scaffolding for the testing portion of the assignment
+### Part-Time Students
+1. Graded Assignment #2 is open and students will now know how to set up the scaffolding for the testing portion of the assignment
+
+
+### Full-Time Students
+* Welcome to Day 8!
+* Assignment 1 due by end of today.
+* Lesson 5
+* Leave time in studio to introduce Assignment 2.
+* Assignment 2 due end of Day 14.
+* Scheduled work days for Assignment 2:
+   * Days 10, 11, 12, 13
 
 ## Large Group Time (Instructor)
 
@@ -42,14 +51,10 @@
 
 1. This studio asks students to write tests for a broken method
 1. Students must fork the starter code and start a Visual Studio solution from Git
-1. The instructions for this studio are limited to encourage students to discuss
-   testing strategy
+1. The instructions for this studio are limited to encourage students to discuss testing strategy
 1. A good development strategy would be to write the tests for the described behavior, then modify the class to pass the tests
 1. The final tests themselves may vary, as well as the solution
-1. Ensure the students are writing tests that will pass the conditions described
-   in the class, not tests that will pass the class as it is written
-1. Remind them that the solution must account for multiple sets of brackets and
-   nested brackets
-1. Should they choose to tackle the bonus mission, it is also a flawed class that
-   must be corrected.
+1. Ensure the students are writing tests that will pass the conditions described in the class, not tests that will pass the class as it is written
+1. Remind them that the solution must account for multiple sets of brackets and nested brackets
+1. Should they choose to tackle the bonus mission, it is also a flawed class that must be corrected.
 1. If students are struggling to think of inputs and outputs to test, start a discussion with the group! Coming up with test cases together can be a great way for students to make sure they are writing enough tests. Also, don't hesitate to look at the solution in case you need any suggestions of inputs and outputs to get the discussion started.

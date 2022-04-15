@@ -20,6 +20,7 @@
 ### Full-Time Students
 
 * Welcome to Days 5, 6, and 7!
+* Assignment 1 due by end of Day 8
 * **Day 5**:
     * Lesson 4
 * **Day 6 & 7**:

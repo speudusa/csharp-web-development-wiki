@@ -19,7 +19,7 @@
 ### Full-Time Students
 
 * Welcome to Day 3 & Day 4!
-* Assignment 1 due by end of Day 5
+* Assignment 1 due by end of Day 8
 * Schedlued work days for Assignment 1
     * Day 6, and Day 7
 * **Day 3**:
