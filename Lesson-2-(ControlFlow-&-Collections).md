@@ -21,6 +21,9 @@
 * Lesson 2
 * Leave time in the afternoon to introduce Assignment 1
 1. Graded Assignment #1 is open! With each of the graded assignments in this unit, the key is to read through everything carefully and start on what you can do as soon as possible. In class, read through the instructions with your students and highlight what they are capable of doing after this class.
+* Schedlued work days for Assignment 1
+    * Day 6, and Day 7
+* Assignment 1 due by end of Day 5
 
 ## Large Group Time (Instructor)
 

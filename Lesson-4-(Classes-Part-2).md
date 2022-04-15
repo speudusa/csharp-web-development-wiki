@@ -11,7 +11,19 @@
 ## Announcements
 
 1. The class 5 prep work should be active by the end of class.
+
+
+### Part-Time Students
+
 1. Graded Assignment 2 is open, and it is due soon. Keep working on your project! After today, you will have enough skill to make significant progress.
+
+### Full-Time Students
+
+* Welcome to Days 5, 6, and 7!
+* **Day 5**:
+    * Lesson 4
+* **Day 6 & 7**:
+    * Work days for Assignment 1
 
 ## Large Group Time (Instructor)
 
@@ -31,7 +43,7 @@
 ## Small Group Time: Lesson 4 Studio (TA Notes)
 
 1. This studio extends the restaurant menu that the students started in class 3. Today, they will create methods to add and remove menu items, as well as to print the menu.
-1. Pace the studio carefully. Just like last class, the students will begin planning their class methods using pen and paper, then pair up to share their ideas.
+1. Pace the studio carefully. Just like last lesson, the students will begin planning their class methods using pen and paper, then pair up to share their ideas.
 1. Provide ample time for this sharing. However, the students will need more time to get their methods coded compared to the last studio, so plan accordingly.
 1. As the students get further into their coding, rotate through your group and have them demonstrate their program. Verify that they can add or remove new menu items and that they can print a menu to the screen.
 1. Just like the last studio, it is important to make sure the students' code works and matches their design.
