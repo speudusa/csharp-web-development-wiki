@@ -11,6 +11,13 @@
 
 1. Check with your course manager for any important announcements.
 
+### Part-Time Students
+
+### Full-Time Students
+* Welcome to Day 14!
+* Assignment 2 due by end of today.
+* Lesson 8
+
 ## Large Group Time (Instructor)
 
 ### Lesson 8 Topics That Require Careful Attention

@@ -17,6 +17,7 @@
 ### Full-Time Students
 
 * Welcome to Days 10 - 13
+* Assignment 2 due by end of Day 14
 * **Day 10**:
     * Lesson 7 Prep work only
     * Assignment 2 work time in the afternoon

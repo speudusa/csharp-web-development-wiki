@@ -10,8 +10,17 @@
 ## Announcements
 
 1. Students are over half way done with Unit 2. Give them a shout out!
-1. Graded Assignment #4 covers the material from Classes 14-17. As always, encourage the students to take the time to read through the whole assignment and see what they can get started on now.
+
 1. Check with your course manager for any important announcements.
+
+### Part-Time Students
+
+1. Graded Assignment #4 covers the material from Classes 14-17. As always, encourage the students to take the time to read through the whole assignment and see what they can get started on now.
+
+### Full-Time Students
+
+* Welcome to Day 22
+* Lesson 14
 
 ## Large Group Time (Instructor)
 

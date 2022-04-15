@@ -10,7 +10,14 @@
 ## Announcements
 
 1. Check with your course manager for any important announcements.
+
+### Part-Time Students
+
 1. Assignment 3 due date is approaching. With the knowledge they now have about model classes, they will be able to complete the assignment.
+
+### Full-Time Students
+* Welcome to Day 18
+* Lesson 11
 
 ## Large Group Time (Instructor)
 
