@@ -1,6 +1,6 @@
 # Lesson 17: Relationships in Object-Relational Mapping
 
-## In the prep work this week, the students learned
+## In the prep work for this lesson, the students learned:
 
 1. How to work with model classes that have one-to-many and many-to-one relationships.
 1. How these relationship types are represented in a SQL database. 

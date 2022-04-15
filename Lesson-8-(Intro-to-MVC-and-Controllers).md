@@ -1,6 +1,6 @@
 # Lesson 8: Introduction to ASP.NET (Core), MVC, and Controllers
 
-## In the prep work this week, the students learned
+## In the prep work for this lesson, the students learned:
 
 1. About the MVC design pattern.
 1. What ASP.NET is.
@@ -10,6 +10,13 @@
 ## Announcements
 
 1. Check with your course manager for any important announcements.
+
+### Part-Time Students
+
+### Full-Time Students
+* Welcome to Day 14!
+* Assignment 2 due by end of today.
+* Lesson 8
 
 ## Large Group Time (Instructor)
 

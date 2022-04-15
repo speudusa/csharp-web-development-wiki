@@ -1,6 +1,6 @@
 # Lesson 3: Classes and Objects
 
-## In the prep work this week, the students learned:
+## In the prep work for this lesson, the students learned:
 
 1. What a class is in C# and how instantiating classes creates objects.
 1. The difference between fields and methods.
@@ -9,10 +9,25 @@
 
 ## Announcements
 
-1. Class 4 prep work should be active by the end of class.
+1. Check with your course manager for any additional announcements.
+
+### Part-Time Students
+
 1. Graded Assignment #1 is due soon!
 1. Graded Assignment #2 opens soon! Remember to get started with graded assignments as soon as possible and read through all of the directions before starting!
-1. Check with your course manager for any additional announcements.
+
+### Full-Time Students
+
+* Welcome to Day 3 & Day 4!
+* Assignment 1 due by end of Day 8
+* Schedlued work days for Assignment 1
+    * Day 6, and Day 7
+* **Day 3**:
+    * Lesson 3
+* **Day 4**:
+    * Work day to review how to create and work with classes in a staticly typed language
+    * Can also be use for Assignment 1 work
+    
 
 ## Large Group Time (Instructor)
 

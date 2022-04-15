@@ -1,6 +1,6 @@
 # Lesson 12: ViewModels, Model Validation, and Enums
 
-## In the prep work this week, the students learned
+## In the prep work for this lesson, the students learned:
 
 1. What ViewModels are and why we should use them.
 1. How and why to validate model data in ASP.NET.
@@ -11,7 +11,26 @@
 ## Announcements
 
 1. Check with your course manager for any important announcements.
+
+NOTE: Lesson 13 is a scheduled work day.
+
+
+### Part-Time Students
+
 1. Students should have assignment 3 completed by today's class.
+
+### Full-Time Students
+
+* Welcome to Days 19 - 21
+* Assignment 3 Due end of Day 22
+* **Day 19**:
+   * Lesson 12
+* **Day 20**:
+   * Assignment 3 Work Day
+* **Day 21**:
+   * Work Day for Assignment 3
+   * Have students review SQL textbook and set up MySQL
+
 
 ## Large Group Time (Instructor)
 

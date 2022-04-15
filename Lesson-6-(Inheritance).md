@@ -1,6 +1,6 @@
 # Lesson 6: Inheritance
 
-## In the prep work this week, the students learned
+## In the prep work for this lesson, the students learned:
 
 1. What inheritance is and how programmers can use it.
 1. What abstract classes and methods are.
@@ -9,7 +9,15 @@
 ## Announcements
 
 1. Check with your course manager for any important announcements.
+
+
+### Part-Time Students
 1. Students should be actively working on Assignment 2.
+
+### Full-Time Students
+* Welcome to Day 9!
+* Lesson 6
+* Assignment 2 work time in the afternoon
 
 ## Large Group Time (Instructor)
 

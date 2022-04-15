@@ -1,6 +1,6 @@
 # Lesson 11: Models Classes and Model Binding
 
-## In the prep work this week, the students learned
+## In the prep work for this lesson, the students learned:
 
 1. The role of *models* in the MVC pattern
 1. The distinction between the functionality of models versus controllers and data services
@@ -10,7 +10,14 @@
 ## Announcements
 
 1. Check with your course manager for any important announcements.
+
+### Part-Time Students
+
 1. Assignment 3 due date is approaching. With the knowledge they now have about model classes, they will be able to complete the assignment.
+
+### Full-Time Students
+* Welcome to Day 18
+* Lesson 11
 
 ## Large Group Time (Instructor)
 

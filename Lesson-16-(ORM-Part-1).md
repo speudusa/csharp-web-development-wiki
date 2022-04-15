@@ -1,6 +1,6 @@
 # Lesson 16: Introduction to Object-Relational Mapping
 
-## In the prep work this week, the students learned
+## In the prep work for this lesson, the students learned:
 
 1. What object-relational mapping is.
 1. How to connect an ASP.NET Core MVC application to a MySQL database.

@@ -1,6 +1,6 @@
 # Lesson 10: Razor Views
 
-## In the prep work this week, the students learned
+## In the prep work for this lesson, the students learned:
 
 1. More about the "view" portion the MVC design pattern.
 1. Why using templates to design a website is a good idea.
@@ -12,7 +12,19 @@
 ## Announcements
 
 1. Check with your course manager for any important announcements.
+
+### Part-Time Students
+
 1. Remind the students that they should be working on Assignment 3. After this class, they should be able to make significant progress with the required tasks.
+
+### Full-Time Students
+* Welcome to Days 16 & 17!
+* **Day 16**:
+   * Lesson 10
+* **Day 17**:
+   * Introduce Assignment 3
+   * Assignment 3 Work Time
+   * Assignment 3 due by end of Day 22
 
 ## Large Group Time (Instructor)
 
