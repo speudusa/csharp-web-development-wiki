@@ -11,20 +11,31 @@
 ## Announcements
 
 1. Welcome! First day of class pep talk
-1. Class 2 prep work should be active by the end of class.
-1. Graded Assignment #1 is open! With each of the graded assignments in this unit, the key is to read through everything carefully and start on what you can do as soon as possible. In class, read through the instructions with your students and highlight what they are capable of doing after this class.
 
 ### Part-Time Students
+1. Graded Assignment #1 is open! With each of the graded assignments in this unit, the key is to read through everything carefully and start on what you can do as soon as possible. In class, read through the instructions with your students and highlight what they are capable of doing after this class.
 
 ### Full-Time Students
-
+* Welcome to Day 1 of Unit 2!
+* Install Visual Studio if not done already
+* Lesson 1
 ## Large Group Time (Instructor)
 
 ### First Class Reminders
 
+#### Part-Time Students
 1. Use Canvas to access course content.
 1. Set expectations for students:
    1. Do ALL of the prep work before class.
+   1. Ask questions often.
+   1. Make use of the help and resources available.
+1. Introduce the TFs and assign groups (may be done during the studio intro).
+1. Other relevant contact information.
+
+#### Full-Time Students
+1. Use Canvas to access course content.
+1. Set expectations for students:
+   1. Do ALL of the prep work during in-class time.
    1. Ask questions often.
    1. Make use of the help and resources available.
 1. Introduce the TFs and assign groups (may be done during the studio intro).
@@ -39,7 +50,7 @@
       Students should be starting to get comfortable with this topic but it is normal if they need more time to consider these ideas.
    1. One of the most critical aspects of this is the referential nature of objects
       in C#.
-1. Graded Assignment #1 is open! With each of the graded assignments in this unit, the key is to read through everything carefully and start on what you can do as soon as possible. In class, read through the instructions with your students and highlight what they are capable of doing after this class.
+
 
 ## Studio (TA Notes)
 
