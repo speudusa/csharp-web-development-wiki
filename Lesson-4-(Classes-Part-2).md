@@ -1,6 +1,6 @@
 # Lesson 4: Classes, Part 2
 
-## In the prep work this week, the students learned
+## In the prep work for this lesson, the students learned:
 
 1. How to customize fields with the keywords ``readonly`` and ``static``.
 1. How to add methods to a class and call those methods.

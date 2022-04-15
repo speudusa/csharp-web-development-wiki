@@ -1,6 +1,6 @@
 # Lesson 6: Inheritance
 
-## In the prep work this week, the students learned
+## In the prep work for this lesson, the students learned:
 
 1. What inheritance is and how programmers can use it.
 1. What abstract classes and methods are.

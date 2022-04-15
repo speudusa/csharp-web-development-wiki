@@ -1,6 +1,6 @@
 # Lesson 19: Authentication
 
-## In the prep work this week, the students learned
+## In the prep work for this lesson, the students learned:
 
 1. What authentication is.
 1. What sessions and cookies are and how sessions and cookies are used to verify a user's identity.

@@ -1,6 +1,6 @@
 # Lesson 14: Databases and SQL
 
-## In the prep work this week, the students learned
+## In the prep work for this lesson, the students learned:
 
 1. What a relational database is.
 1. What SQL is and why it is important.

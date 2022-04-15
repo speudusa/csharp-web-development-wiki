@@ -1,6 +1,6 @@
 # Lesson 18: Object-Relational Mapping Part 3
 
-## In the prep work this week, the students learned
+## In the prep work for this lesson, the students learned:
 
 1. How to build persistent model classes with many-to-many relationships.
 1. What a composite key is.

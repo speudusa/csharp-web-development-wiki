@@ -1,6 +1,6 @@
 # Lesson 1: Data and Variables
 
-## In the prep work this week, the students learned:
+## In the prep work for this lesson, the students learned:
 
 1. How to set up a C# development environment and execute C# programs
 1. A basic understanding of C#'s type system

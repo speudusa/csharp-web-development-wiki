@@ -1,6 +1,6 @@
 # Lesson 11: Models Classes and Model Binding
 
-## In the prep work this week, the students learned
+## In the prep work for this lesson, the students learned:
 
 1. The role of *models* in the MVC pattern
 1. The distinction between the functionality of models versus controllers and data services

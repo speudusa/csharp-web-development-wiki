@@ -1,6 +1,6 @@
 # Lesson 9: Exceptions and Build Tools
 
-## In the prep work this week, the students learned
+## In the prep work for this lesson, the students learned:
 
 1. How to handle an exception in C#.
 1. Common exceptions in C#

@@ -1,6 +1,6 @@
 # Lesson 10: Razor Views
 
-## In the prep work this week, the students learned
+## In the prep work for this lesson, the students learned:
 
 1. More about the "view" portion the MVC design pattern.
 1. Why using templates to design a website is a good idea.

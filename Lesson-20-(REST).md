@@ -1,6 +1,6 @@
 # Lesson 20: REST
 
-## In the prep work this week, the students learned
+## In the prep work for this lesson, the students learned:
 
 1. What is a web API and what is a RESTful API.
 1. Why is REST a useful application design pattern.

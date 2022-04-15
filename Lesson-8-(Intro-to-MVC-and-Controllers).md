@@ -1,6 +1,6 @@
 # Lesson 8: Introduction to ASP.NET (Core), MVC, and Controllers
 
-## In the prep work this week, the students learned
+## In the prep work for this lesson, the students learned:
 
 1. About the MVC design pattern.
 1. What ASP.NET is.

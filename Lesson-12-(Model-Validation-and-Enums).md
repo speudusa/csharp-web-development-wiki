@@ -1,6 +1,6 @@
 # Lesson 12: ViewModels, Model Validation, and Enums
 
-## In the prep work this week, the students learned
+## In the prep work for this lesson, the students learned:
 
 1. What ViewModels are and why we should use them.
 1. How and why to validate model data in ASP.NET.

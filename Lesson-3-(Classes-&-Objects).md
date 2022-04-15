@@ -1,6 +1,6 @@
 # Lesson 3: Classes and Objects
 
-## In the prep work this week, the students learned:
+## In the prep work for this lesson, the students learned:
 
 1. What a class is in C# and how instantiating classes creates objects.
 1. The difference between fields and methods.

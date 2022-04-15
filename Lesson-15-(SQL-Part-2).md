@@ -1,6 +1,6 @@
 # Lesson 15: The SQL Sequel
 
-## In the prep work this week, the students learned
+## In the prep work for this lesson, the students learned:
 
 1. More details behind one-to-many table relationships.
 1. The MySQL syntax for establishing primary and foreign keys.

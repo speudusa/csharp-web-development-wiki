@@ -1,6 +1,6 @@
 # Lesson 5: Unit Testing
 
-## In the prep work this week, the students learned
+## In the prep work for this lesson, the students learned:
 
 1. Some good practices for writing unit tests, some review from previous learning:
 
