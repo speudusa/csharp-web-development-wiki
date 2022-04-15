@@ -14,3 +14,4 @@ git merge master --no-edit
 git fetch upstream
 git merge upstream/master --no-edit
 git push upstream master
+

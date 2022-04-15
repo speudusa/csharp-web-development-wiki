@@ -24,7 +24,7 @@
 * **Day 29**:
    * Assignment 4 Work Day
    * Self-Assessment 2 
-   * Assignment 4 Work Day after
+   * Assignment 4 Work Days to follow
 * **Day 30**:
    * Assignment 4 Work Day
 * **Day 31**:
