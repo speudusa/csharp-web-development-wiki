@@ -12,6 +12,13 @@
 1. Assignment #4 is open and students can start working on it!
 1. Check with your course manager for any additional announcements.
 
+### Part-Time Students
+
+### Full-Time Students
+
+* Welcome to Day 25
+* Lesson 16
+
 ## Large Group Time (Instructor)
 
 ### Lesson 16 Topics That Require Careful Attention
