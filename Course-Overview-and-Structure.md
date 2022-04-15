@@ -28,6 +28,8 @@ The course is designed for learners who are already familiar with:
 
 # Class Structure
 
+## For Part-Time Students:
+
 * Prep work
   * Tasks student do **at home, before class**
   * Reading chapters, quizzes, practice exercises
@@ -40,6 +42,27 @@ The course is designed for learners who are already familiar with:
   * Designed to be **safe practice time** for students with TA support
 * Programming Assignments
   * Graded assignments for which students are given multiple weeks to complete
+
+## For Full-Time Students
+
+* Prep work 
+  * Tasks student complete **in class**
+    * Reading chapters
+    * Reading quizzes
+    * Practice exercises
+* Primary Instruction
+  * Led by the instructor
+  * Lasts 45 minutes to 1 hour
+* Studio
+  * Students separate into assigned groups, that are led by a TA
+  * Lasts 1 to 1.5 hours
+  * Designed to be **safe practice time** for students with TA support
+* Programming Assignments
+  * Graded assignments for which students are given multiple days to complete during class
+* Self-Assessments (Full-Time Students only)
+  * These assessments are scheduled to provide feedback for the student about what concepts they understand and what they need to review.
+  * These are not graded, and will not prevent a student from passing the class.
+  * Use these to assess overall class understanding of concepts.
 
 # Tasks and Responsibilities
 Instructors and TAs are crucial to the success of the students. These tasks help ensure that everyone knows their role in the process.
@@ -59,7 +82,7 @@ Instructors and TAs are crucial to the success of the students. These tasks help
   * Look for signs of students struggling and falling behind
   * Use feedback from students and TAs to determine how to cover the topic more effectively
   * Adjust examples and descriptions of topics as needed
-* Manage and coach TAs
+* Act as a knowledgeable resource for TAs
 
 ## Teaching Assistants (TAs)
 
@@ -82,8 +105,16 @@ TAs will be assigned a group of students to guide.
 
 ## Students
 
+### Part-Time Students
 * Pay attention to assignments in Canvas
 * Do the prep work **before class**
+* Attend class and participate in activities
+* Turn in graded assignments on time
+* Do their own work
+
+### Full-Time Students
+* Pay attention to assignments in Canvas
+* Do the prep work during assigned **in-class** working time
 * Attend class and participate in activities
 * Turn in graded assignments on time
 * Do their own work
