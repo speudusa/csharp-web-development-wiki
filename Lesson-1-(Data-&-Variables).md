@@ -14,6 +14,10 @@
 1. Class 2 prep work should be active by the end of class.
 1. Graded Assignment #1 is open! With each of the graded assignments in this unit, the key is to read through everything carefully and start on what you can do as soon as possible. In class, read through the instructions with your students and highlight what they are capable of doing after this class.
 
+### Part-Time Students
+
+### Full-Time Students
+
 ## Large Group Time (Instructor)
 
 ### First Class Reminders
