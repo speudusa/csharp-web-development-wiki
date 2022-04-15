@@ -10,8 +10,7 @@
 
 ## Announcements
 
-1. The class 5 prep work should be active by the end of class.
-
+1. Check with your course manager for any important announcements.
 
 ### Part-Time Students
 

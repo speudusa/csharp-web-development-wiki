@@ -11,6 +11,7 @@
 ## Announcements
 
 1. Welcome! First day of class pep talk
+1. Check with your course manager for any important announcements.
 
 ### Part-Time Students
 1. Graded Assignment #1 is open! With each of the graded assignments in this unit, the key is to read through everything carefully and start on what you can do as soon as possible. In class, read through the instructions with your students and highlight what they are capable of doing after this class.

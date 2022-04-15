@@ -9,7 +9,15 @@
 ## Announcements
 
 1. Check with your course manager for any important announcements.
+
+
+### Part-Time Students
 1. Students should be actively working on Assignment 2.
+
+### Full-Time Students
+* Welcome to Day 9!
+* Lesson 6
+* Assignment 2 work time in the afternoon
 
 ## Large Group Time (Instructor)
 
