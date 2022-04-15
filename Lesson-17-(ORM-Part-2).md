@@ -10,6 +10,13 @@
 1. Assignment #4 is open and students should be actively working on it. After today's class, students will be able to complete all but Part 3.
 1. Check with your course manager for any additional announcements.
 
+### Part-Time Students
+
+### Full-Time Students
+
+* Welcome Day 26
+* Lesson 17
+
 ## Large Group Time (Instructor)
 
 ### Lesson 17 Topics That Require Careful Attention

@@ -8,8 +8,24 @@
 
 ## Announcements
 
-1. This is the last class of the program! Take the time to acknowledge all of the hard work the students have put in!
+
 1. Check with your course manager for any additional announcements.
+
+### Part-Time Students
+
+1. This is the last class of the program! Take the time to acknowledge all of the hard work the students have put in!
+
+### Full-Time Students
+
+* Welcome to Days 33 - 35
+* **Day 33**:
+   * Lesson 20
+* **Day 34**:
+   * Work day for Authentication and Rest
+* **Day 35**:
+   * Unit 2 recap
+   * ALL Assignments due by end of the day
+   * If students moving into Liftoff, provide a preview.
 
 ## Large Group Time (Instructor)
 

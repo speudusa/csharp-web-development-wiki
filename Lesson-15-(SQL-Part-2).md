@@ -9,8 +9,20 @@
 
 ## Announcements
 
-1. Graded Assignment #4 covers the material from Classes 14-17. Encourage the students to use their new SQL skills to start setting up the database and tables for the assignment.
 1. Check with your course manager for any important announcements.
+
+### Part-Time Students
+
+1. Graded Assignment #4 covers the material from Classes 14-17. Encourage the students to use their new SQL skills to start setting up the database and tables for the assignment.
+
+### Full-Time Students
+* Welcome to Days 23 & 24
+* **Day 23**:
+    * Lesson 15
+* **Day 24**:
+    * Introduce Assignment 4
+    * Assignment 4 due by end of Day 32
+    * Assignment 4 Work Day
 
 ## Large Group Time (Instructor)
 

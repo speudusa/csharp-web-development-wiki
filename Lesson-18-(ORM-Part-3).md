@@ -11,6 +11,25 @@
 1. Assignment #4 is due soon! After Class 18, students have all of the materials they need to complete the assignment.
 1. Check with your course manager for any additional announcements.
 
+### Part-Time Students
+
+### Full-Time Students
+
+* Welcome to Days 27 - 31
+* Assignment 4 due end of Day 32
+* **Day 27**:
+   * Lesson 18
+* **Day 28**: 
+   * ORM Work Day or Assignment 4 Work day
+* **Day 29**:
+   * Assignment 4 Work Day
+   * Self-Assessment 2 
+   * Assignment 4 Work Day after
+* **Day 30**:
+   * Assignment 4 Work Day
+* **Day 31**:
+   * Assignment 4 Work Day
+
 ## Large Group Time (Instructor)
 
 ### Lesson 18 Topics That Require Careful Attention

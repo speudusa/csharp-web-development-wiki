@@ -10,9 +10,18 @@
 
 ## Announcements
 
+1. Check with your course manager for any additional announcements.
+
+### Part-Time Students
+
 1. Students are almost done with the class! One class left!
 1. Assignment #4 is due soon!
-1. Check with your course manager for any additional announcements.
+
+### Full-Time Students
+
+* Welcome to Day 32
+* Assignment 4 due at the end of today
+
 
 ## Large Group Time (Instructor)
 
