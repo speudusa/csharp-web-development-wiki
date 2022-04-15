@@ -15,7 +15,7 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/csharp-web-dev
 * [Bug and Issue Reporting](https://github.com/LaunchCodeEducation/csharp-web-development/wiki/Course-Overview-and-Structure#Bug-and-Issue-Reporting)
 * [Work Days](https://github.com/LaunchCodeEducation/csharp-web-development/wiki/Work-Day)
 
-## Class Specific Guides
+## Lesson Specific Guides
 
 * [Lesson 1 - Data & Variables](https://github.com/LaunchCodeEducation/csharp-web-development/wiki/Lesson-1-(Data-&-Variables))
 * [Lesson 2 - Control Flow & Collections](https://github.com/LaunchCodeEducation/csharp-web-development/wiki/Lesson-2-(ControlFlow-&-Collections))
